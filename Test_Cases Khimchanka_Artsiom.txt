@@ -1,0 +1,61 @@
+А)
+1) Functioning of the "Everything" filter
+1. Go to www.google.com.
+2. In the search bar, enter the query "prowly"
+3. Click on the "Search" button
+4. On the search results page click on the drop-down list “All filters”
+5. Select the “All” filter
+
+Expected result: the results show content from all categories and they are relevant and comprehensive, the search results page displays a variety of content types, including web pages, images, videos, news articles, and more
+
+
+2) Functioning of the "Videos" filter
+1. Go to www.google.com.
+2. In the search bar, enter the query "prowly"
+3. Click on the "Search" button.
+4. On the search results page click on the drop-down list “All filters”
+5. Select the “Videos” filter
+
+Expected result: the search results page now exclusively show video content related to "prowly"
+
+
+3) Functioning of the "News" filter
+1. Go to www.google.com.
+2. In the search bar, enter the query "prowly"
+3. Click on the "Search" button.
+4. On the search results page click on the drop-down list “All filters”
+5. Select the “News” filter
+
+Expected result: the search results page now exclusively show news articles and headlines related to "prowly"
+
+
+B)
+1) Functioning of the "Past 24 Hours" filter
+1. Go to www.google.com.
+2. In the search bar, enter the query "prowly"
+3. Click on the "Search" button.
+4. On the search results page click on the "Tools" option.
+5. In the “Any time” drop-down menu select “Past 24 hours” option  
+
+Expected result: the search results now display only web pages, news articles, or other content related to "prowly" that have been published within the past 24 hours
+
+
+2) Functioning of the "Past Week" filter
+1. Go to www.google.com.
+2. In the search bar, enter the query "prowly."
+3. Click on the "Search" button.
+4. On the search results page click on the "Tools" option.
+5. In the “Any time” drop-down menu select “Past week” option  
+
+Expected result: the search results now display web pages, news articles, or other content related to "prowly" from the past week.
+
+
+3) Functioning of the "Custom Date Range" filter
+1. Go to www.google.com.
+2. In the search bar, enter the query "prowly"
+3. Click on the "Search" button.
+4. On the search results page click on the "Tools" option.
+5. In the “Any time” drop-down menu select “Custom range” option  
+6. Set a specific date range (e.g. from September 1, 2023, to September 15, 2023).
+
+Expected result: the search results now display web pages, news articles, or other content related to "prowly" within the specified date range.
